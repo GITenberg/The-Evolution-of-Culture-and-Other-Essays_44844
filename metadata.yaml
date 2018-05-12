@@ -1,0 +1,53 @@
+_repo: The-Evolution-of-Culture-and-Other-Essays_44844
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Balfour, Henry
+    birthdate: 1863
+    deathdate: 1939
+    gutenberg_agent_id: '44022'
+    url: http://www.gutenberg.org/2009/agents/44022
+covers:
+- cover_type: archival
+  image_path: 44844-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Pitt-Rivers, Augustus Henry Lane-Fox
+    aliases:
+    - Pitt-Rivers, A. Lane-Fox (Augustus Lane-Fox)
+    - Fox, A. Lane (Augustus Lane)
+    - Fox, Augustus Henry Lane
+    - Fox, A. H. Lane (Augustus Henry Lane)
+    - Lane-Fox, Augustus Henry
+    - Fox-Pitt-Rivers, Augustus Henry Lane
+    birthdate: 1827
+    deathdate: 1900
+    gutenberg_agent_id: '42518'
+    url: http://www.gutenberg.org/2009/agents/42518
+    wikipedia: http://en.wikipedia.org/wiki/Augustus_Pitt_Rivers
+  editor:
+    agent_name: Myres, John Linton, Sir
+    aliases:
+    - Myres, John, Sir
+    - Myres, Sir John Linton
+    birthdate: 1869
+    deathdate: 1954
+    gutenberg_agent_id: '42237'
+    url: http://www.gutenberg.org/2009/agents/42237
+description: ''
+gutenberg_issued: '2014-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44844'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Anthropology'
+- !lcsh 'Culture'
+- !lcc 'GN'
+tableOfContents: Principles of classification (1874) -- On the evolution of culture
+  (1875) -- Primitive warfare I-III (1867-1869) -- Early modes of navigation (1874).
+title: The Evolution of Culture, and Other Essays
+url: http://www.gutenberg.org/ebooks/44844
