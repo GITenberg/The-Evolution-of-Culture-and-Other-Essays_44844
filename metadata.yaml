@@ -35,6 +35,8 @@ creator:
     gutenberg_agent_id: '42237'
     url: http://www.gutenberg.org/2009/agents/42237
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44844#The-Evolution-of-Culture-and-Other-Essays
 gutenberg_issued: '2014-02-08'
 gutenberg_type: Text
 identifiers:
